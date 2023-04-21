@@ -103,6 +103,42 @@
   <ItemGroup>
     <None Include="Resources\Rain3.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terraria weather.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thunder.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snow.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clouds.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sun.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cloudicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\othericon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sunicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rainicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snowicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thundericon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
